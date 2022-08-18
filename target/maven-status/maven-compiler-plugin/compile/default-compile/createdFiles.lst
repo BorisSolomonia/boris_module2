@@ -1,0 +1,10 @@
+com\epam\esm\service\TagService.class
+com\epam\esm\config\WebApplicationInitializer.class
+com\epam\esm\controller\GiftCertificateController.class
+com\epam\esm\service\GiftCertificateService.class
+com\epam\esm\config\AppConfig.class
+com\epam\esm\dto\TagDto.class
+com\epam\esm\service\TagServiceImpl.class
+com\epam\esm\dto\GiftCertificateDto.class
+com\epam\esm\service\GiftCertificateServiceImpl.class
+com\epam\esm\controller\TagController.class
